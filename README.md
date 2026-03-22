@@ -82,43 +82,6 @@ fun_fact: "I reduced contact center costs by 80% with a single AI system 🤯"
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=karandeepbhardwaj&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karandeepbhardwaj/karandeepbhardwaj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karandeepbhardwaj/karandeepbhardwaj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/karandeepbhardwaj/karandeepbhardwaj/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-> ⚠️ **To enable the snake animation**, add [this GitHub Action workflow](#-snake-setup) to your repo.
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karandeepbhardwaj&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 <div align="center">
