@@ -85,19 +85,6 @@ fun_fact: "I reduced contact center costs by 80% with a single AI system 🤯"
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karandeepbhardwaj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=karandeepbhardwaj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karandeepbhardwaj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
